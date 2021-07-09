@@ -5,4 +5,5 @@ DQN:                                 Deep Q-learning Network
 Evaluate based on lab8:    基于实验八的改进评估算法            
 
 Reversi是翻转黑白棋游戏
-实现效果
+
+实现效果:
